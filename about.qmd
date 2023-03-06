@@ -1,9 +1,23 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi!
 
-```{r}
-1 + 1
+My name is Sam Struthers and I am currently a researcher in the ROSS Lab at Colorado State University (Fort Collins).
+
+I am very passionate about water resources in the Western US.
+
+I hope to build my data science and analysis skills to help people all over the world be able to track water quality in their local watershed.
+
+Outside of water, I love to rock climb with my specialty being bouldering. I also spend a lot time hiking, snowboarding and biking around town.
+
+```{r echo=FALSE, include=FALSE, eval=TRUE}
+
+random_facts = c(
+  "I lived in Costa Rica for a year when I was in second grade", 
+  "I swam in every high alpine lake we camped at during a 3 week backpacking trip" )
+
 ```
+
+Random fun fact :

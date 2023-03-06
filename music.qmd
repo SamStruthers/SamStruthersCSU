@@ -1,0 +1,5 @@
+---
+title: "Music"
+---
+
+This page will showcase a bit of coding skills (through Spotify's R package) and highlight the music I am currently interested in for the last 3 months.

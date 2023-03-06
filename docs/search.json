@@ -4,6 +4,55 @@
     "href": "index.html",
     "title": "Sam Struthers (He/Him)",
     "section": "",
-    "text": "Welcome!\nSam Struthers is currently a staff member at the ROSS lab at CSU.\nHis research is currently focusing on the water quality impacts of the Cameron Peak Wildfire and maintaining the Lower Poudre Sonde Network.\nTo learn more about the ROSS lab’s research <https://rossyndicate.com/>.\n\n\n\nThis website was built using quarto and can it’s repository can be viewed here: Github Website Repository"
+    "text": "Welcome!\nSam Struthers is currently a staff member at the ROSS lab at CSU.\nHis research is currently focusing on the water quality impacts of the Cameron Peak Wildfire and maintaining the Lower Poudre Sonde Network.\nTo learn more about the ROSS lab’s research <https://rossyndicate.com/>\n\nThis website was built using quarto and can it’s repository can be viewed here: Github Website Repository"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hi!\nMy name is Sam Struthers and I am currently a researcher in the ROSS Lab at Colorado State University (Fort Collins).\nI am very passionate about water resources in the Western US.\nI hope to build my data science and analysis skills to help people all over the world be able to track water quality in their local watershed.\nOutside of water, I love to rock climb with my specialty being bouldering. I also spend a lot time hiking, snowboarding and biking around town.\nRandom fun fact :"
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
+    "section": "",
+    "text": "This page will showcase a bit of coding skills (through Spotify’s R package) and highlight the music I am currently interested in for the last 3 months."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Page",
+    "section": "",
+    "text": "This page will be how folks can contact me\nEmail: blah blah blah"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "This page will house my most recent resume\nResumé Date: XXXX-XX-XX"
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "photography",
+    "section": "",
+    "text": "This page will house a showcase of some of my photography.\nIt is not amazing but something I enjoy."
+  },
+  {
+    "objectID": "current.html",
+    "href": "current.html",
+    "title": "Current Work",
+    "section": "",
+    "text": "This page will showcase my current work at the ROSS Lab at CSU"
+  },
+  {
+    "objectID": "previous.html",
+    "href": "previous.html",
+    "title": "Past Work",
+    "section": "",
+    "text": "This page will showcase some of my previous work with the Kampf Lab"
   }
 ]
