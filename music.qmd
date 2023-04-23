@@ -2,4 +2,67 @@
 title: "Music"
 ---
 
-This page will showcase a bit of coding skills (through Spotify's R package) and highlight the music I am currently interested in for the last 3 months.
+This page will showcase a bit of coding skills (through Spotify's R package) and highlight the music I am currently listening to.
+
+```{r setup_install, echo=FALSE, eval=TRUE, include=FALSE}
+
+
+library(spotifyr)
+library(tidyverse)
+library(ggplot2)
+library(lubridate)
+library(kableExtra)
+library(DT)
+
+
+Sys.setenv(SPOTIFY_CLIENT_ID = 'efc29651b4d54cf59e9b477c5c60ba82')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = '633a9acac211456e9888520eb98f539e')
+
+access_token <- get_spotify_access_token()
+```
+
+```{r, echo=FALSE, eval=TRUE, include=FALSE}
+
+recent_music <- get_my_recently_played(limit = 50) %>%
+    mutate(artist.name = map_chr(track.artists, function(x) x$name[1]),
+           played_at = as_datetime(played_at)) %>% 
+    dplyr::select(track.name, artist.name, track.album.name, played_at)
+
+
+top_artists <- get_my_top_artists_or_tracks(type = 'artists', time_range = 'long_term', limit = 10) %>% 
+    select(name, genres) %>% 
+    rowwise %>% 
+    mutate(genres = paste(genres, collapse = ', ')) %>% 
+    ungroup 
+
+```
+
+```{r, echo=FALSE, eval=TRUE, include=FALSE}
+
+# create a table of the top artists
+colnames(top_artists) <- c("Artist Name", "Genres")
+
+
+# create an interactive table of the most recent music
+colnames(recent_music) <- c("Track Name", "Artist Name", "Album Name", "Played Date Time")
+
+
+```
+
+# Table of my top 10 artists
+```{r}
+
+datatable(top_artists, options = list(scrollY = "200px", paging = FALSE))
+
+```
+
+
+
+# Table of my 50 recently played songs
+
+```{r}
+
+datatable(recent_music, options = list(scrollY = "200px", paging = FALSE))
+
+```
+

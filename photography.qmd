@@ -2,6 +2,10 @@
 title: "Photography"
 ---
 
-This page will house a showcase of some of my photography.
+When working in the field, traveling or rock climbing, I enjoy capturing photos. I thought I might share a few I think are pretty good.
 
-It is not amazing but something I enjoy.
+![](Photography/beaver_creek.jpg)
+
+![](Photography/castle_hill.jpg)
+
+![](Photography/Font_hold.jpg) ![](Photography/north_carolina.jpg) ![](Photography/olivia_font.jpg)

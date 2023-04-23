@@ -2,4 +2,18 @@
 title: "Current Work"
 ---
 
-This page will showcase my current work at the ROSS Lab at CSU
+Currently I am managing the field operations for two projects in the ROSS lab.
+
+## The Upper Poudre Network:
+
+![Peterson Lake late, one of the burned reservoirs in our study. ](upper_current.jpg){width="558"}
+
+I currently manage a team of field and lab technicians who collect water grab samples in the Cache La Poudre River with the goal of understanding how water quality in high elevation reservoirs change post- wildfire. This project will also eventually include water quality sondes which will be used to help warn downstream users when water quality is impaired from either algal blooms or sedimentation.
+
+## The Lower Poudre Network:
+
+My primary duties are to install, maintain and calibrate seven water quality sondes on the Cache La Poudre River above, through and below the city of Fort Collins to track changes in water quality.
+
+![](lower_current1.jpg){fig-align="left" width="364"}
+
+![Two sites in our Lower Poudre Monitoring Network](lower_current2.jpg){fig-align="right" width="299"}

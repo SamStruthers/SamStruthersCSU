@@ -1,8 +1,0 @@
----
-title: "Resume"
----
-
-This page will house my most recent resume
-
-Resumé Date: XXXX-XX-XX
-

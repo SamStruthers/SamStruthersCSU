@@ -2,4 +2,14 @@
 title: "Past Work"
 ---
 
-This page will showcase some of my previous work with the Kampf Lab
+## Kampf Lab:
+
+![Installing high elevation site one month post fire!](previous1.HEIC){fig-align="left" width="454"}
+
+Previously, I worked as a field technician for Dr Stephanie Kampf researching post-fire hydrologic responses. This work focused on the streamflow responses from changes in snow pack characteristics. Dr Kampf and others published this paper on that work: [Increasing wildfire impacts on snowpack in the western U.S.](https://doi.org/10.1073/pnas.2200333119)
+
+![Deepest snowpit for the season!](previous2.JPG){width="233"}
+
+Through this work, I got experience installing various sensors and learning methods to measure snowpack and streamflow. I also learned how to qualitatively assess watershed characteristics through site selection and watershed surveys.
+
+![Field visit to 6 small catchments to determine suitability for future studies.](previous3.HEIC){width="508"}

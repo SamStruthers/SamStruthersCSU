@@ -11,21 +11,21 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "Hi!\nMy name is Sam Struthers and I am currently a researcher in the ROSS Lab at Colorado State University (Fort Collins).\nI am very passionate about water resources in the Western US.\nI hope to build my data science and analysis skills to help people all over the world be able to track water quality in their local watershed.\nOutside of water, I love to rock climb with my specialty being bouldering. I also spend a lot time hiking, snowboarding and biking around town.\nRandom fun fact :"
+    "text": "Hi!\n\nMy name is Sam Struthers and I am currently a researcher in the ROSS Lab at Colorado State University (Fort Collins).\nI am very passionate about water resources in the Western US.\nI hope to build my data science and analysis skills to help people all over the world be able to track water quality in their local watershed.\nOutside of water, I love to rock climb with my specialty being bouldering. I also spend a lot time hiking, snowboarding and biking around town."
   },
   {
     "objectID": "music.html",
     "href": "music.html",
     "title": "Music",
     "section": "",
-    "text": "This page will showcase a bit of coding skills (through Spotify’s R package) and highlight the music I am currently interested in for the last 3 months."
+    "text": "This page will showcase a bit of coding skills (through Spotify’s R package) and highlight the music I am currently listening to.\n\nTable of my top 10 artists\n\ndatatable(top_artists, options = list(scrollY = \"200px\", paging = FALSE))\n\n\n\n\n\n\n\n\nTable of my 50 recently played songs\n\ndatatable(recent_music, options = list(scrollY = \"200px\", paging = FALSE))"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact Page",
     "section": "",
-    "text": "This page will be how folks can contact me\nEmail: blah blah blah"
+    "text": "If you would like to chat online,\nEmail: samuel.struthers@colostate.edu\nIf you want to meet in person,\nOn Campus Office:\n1231 Libbie Coy Wy, Fort Collins, CO 80521, United States\nOffice Number: A242"
   },
   {
     "objectID": "resume.html",
@@ -37,22 +37,36 @@
   {
     "objectID": "photography.html",
     "href": "photography.html",
-    "title": "photography",
+    "title": "Photography",
     "section": "",
-    "text": "This page will house a showcase of some of my photography.\nIt is not amazing but something I enjoy."
+    "text": "When working in the field, traveling or rock climbing, I enjoy capturing photos. I thought I might share a few I think are pretty good."
   },
   {
     "objectID": "current.html",
     "href": "current.html",
     "title": "Current Work",
     "section": "",
-    "text": "This page will showcase my current work at the ROSS Lab at CSU"
+    "text": "Currently I am managing the field operations for two projects in the ROSS lab."
   },
   {
     "objectID": "previous.html",
     "href": "previous.html",
     "title": "Past Work",
     "section": "",
-    "text": "This page will showcase some of my previous work with the Kampf Lab"
+    "text": "Installing high elevation site one month post fire!\n\n\nPreviously, I worked as a field technician for Dr Stephanie Kampf researching post-fire hydrologic responses. This work focused on the streamflow responses from changes in snow pack characteristics. Dr Kampf and others published this paper on that work: Increasing wildfire impacts on snowpack in the western U.S.\n\n\n\nDeepest snowpit for the season!\n\n\nThrough this work, I got experience installing various sensors and learning methods to measure snowpack and streamflow. I also learned how to qualitatively assess watershed characteristics through site selection and watershed surveys.\n\n\n\nField visit to 6 small catchments to determine suitability for future studies."
+  },
+  {
+    "objectID": "current.html#the-upper-poudre-network",
+    "href": "current.html#the-upper-poudre-network",
+    "title": "Current Work",
+    "section": "The Upper Poudre Network:",
+    "text": "The Upper Poudre Network:\n\n\n\nPeterson Lake late, one of the burned reservoirs in our study.\n\n\nI currently manage a team of field and lab technicians who collect water grab samples in the Cache La Poudre River with the goal of understanding how water quality in high elevation reservoirs change post- wildfire. This project will also eventually include water quality sondes which will be used to help warn downstream users when water quality is impaired from either algal blooms or sedimentation."
+  },
+  {
+    "objectID": "current.html#the-lower-poudre-network",
+    "href": "current.html#the-lower-poudre-network",
+    "title": "Current Work",
+    "section": "The Lower Poudre Network:",
+    "text": "The Lower Poudre Network:\nMy primary duties are to install, maintain and calibrate seven water quality sondes on the Cache La Poudre River above, through and below the city of Fort Collins to track changes in water quality.\n\n\n\n\n\n\n\n\nTwo sites in our Lower Poudre Monitoring Network"
   }
 ]
